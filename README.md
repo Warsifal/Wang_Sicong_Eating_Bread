@@ -11,5 +11,5 @@ A Wang Sicong eating bread game written in Java
 </p>
 
 <p align="center">
-<img width="414" height="668" src="examples/screenshot.png">
+<img width="414" height="668" src="examples/screenshot02.png">
 </p>
